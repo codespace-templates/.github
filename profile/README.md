@@ -6,6 +6,13 @@
  \____\___/ \__,_|\___||___/ .__/ \__,_|\___\___||_|\___|_| |_| |_| .__/|_|\__,_|\__\___||___/
                            |_|                                    |_|                         
 <br/>
-Templates for your GitHub <a href="https://github.com/features/codespaces" target="_blank">Codespaces</a>!
+Templates for your GitHub <a href="https://github.com/features/codespaces">Codespaces</a>!
+<br/>
+<br/>
+GitHub Codespaces let you create development environments in seconds.
+You can use them to quickly spin up a test environment with specific preinstalled tools.
+We feature Codespaces for many common languages and frameworks.
+<br/>
+Follow us to get notified when we add more templates!
   
 </code></pre></p>
