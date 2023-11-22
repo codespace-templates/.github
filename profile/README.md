@@ -13,6 +13,6 @@ GitHub Codespaces let you create development environments in seconds.
 You can use them to quickly spin up a test environment with specific preinstalled tools.
 We feature Codespaces for many common languages and frameworks.
 <br/>
-Follow us to get notified when we add more templates!
+<i>Follow us to get notified when we add more templates!</i>
   
 </code></pre></p>
